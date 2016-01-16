@@ -1,2 +1,2 @@
 websocketserver = '192.168.77.1';
-websocketport = 9001;
+websocketport = 8000;
